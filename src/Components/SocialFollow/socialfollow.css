@@ -1,0 +1,23 @@
+.social-container {
+  /* background-color: #eee; */
+  padding: 15px 48px;
+  overflow: hidden;
+}
+
+a.social {
+  margin: 0 1rem;
+  transition: transform 250ms;
+  display: inline-block;
+}
+
+/* slightly move icon up on hover */
+a.social:hover {
+  transform: translate(-2px);
+}
+
+a.facebook,
+a.twitter,
+a.instagram,
+a.youtube {
+  color: #333;
+}

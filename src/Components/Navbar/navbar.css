@@ -1,0 +1,10 @@
+Nav {
+  justify-content: space-between !important;
+  text-align: center !important;
+}
+.navbar-items {
+  font-size: 20px !important;
+  font-family: "Lato", sans-serif !important;
+  color: #3333ff !important;
+  /* padding: 14px 16px !important; */
+}

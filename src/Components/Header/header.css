@@ -1,0 +1,20 @@
+.header {
+  /* background-color: #f2f2f2; */
+  /* padding: 10px; */
+  display: block;
+  position: fixed;
+  top: 0;
+  left: 0;
+  z-index: 9999;
+  width: 100%;
+  background-color: #fff;
+  padding: 10px 0;
+  margin-bottom: 0px;
+}
+.brand {
+  display: inline-flex;
+  /* padding: 10px 14px; */
+}
+.brand h1 {
+  font-family: "Playfair Display SC", serif;
+}
